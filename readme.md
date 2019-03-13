@@ -1,2 +1,2 @@
-launchctl load ~/Library/LaunchAgents/com.fishbackup.daemon.plist
-launchctl unload
+launchctl load ~/Library/LaunchAgents/com.<name>.daemon.plist
+launchctl unload ~/Library/Launchagents/com.<name>.daemon.plist
